@@ -1,0 +1,9 @@
+celsius = 28
+fahrenheit = celsius * 9 / 5 + 32
+km = 45.312
+miles = km * 0.621371
+hours = 3.5
+minutes = hours * 60
+print("Fahrenheit = ",fahrenheit)
+print("Miles = ",miles)
+print("Minutes = ",minutes)
