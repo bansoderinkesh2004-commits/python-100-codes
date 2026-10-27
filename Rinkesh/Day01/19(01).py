@@ -1,0 +1,6 @@
+print(4 + 8)
+print(13 - 9)
+print(9 * 8)
+print(16 / 3)
+print(2 ** 10)
+print((4 + 6) * 3)
