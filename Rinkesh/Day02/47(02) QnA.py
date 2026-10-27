@@ -1,0 +1,5 @@
+print(type(7))
+print(type(7.0))
+print(type("7"))
+print(type(7>3))
+print(type(3+4.5))
