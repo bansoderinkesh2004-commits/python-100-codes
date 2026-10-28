@@ -1,0 +1,5 @@
+print(3 + 2.0)
+print(3 + 2)
+print(6 / 3.1)
+print(9 // 2)
+print(8.2 // 4)
