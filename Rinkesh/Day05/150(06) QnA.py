@@ -1,0 +1,15 @@
+import sys
+sys.path.insert(0, "../src")
+from course_tools import check, check_output
+c1=int(3.99)
+c2=float("2")
+c3=str(7)+str(7)
+c4=bool("")
+c5=bool("0")
+c6=int("42")+float("0.5")
+check(c1, 3)
+check(c2, 2.0)
+check(c3, "77")
+check(c4, False)
+check(c5, True, hint="A non-empty string is True, whatever characters are in it.")
+check(c6, 42.5)
